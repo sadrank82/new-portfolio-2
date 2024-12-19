@@ -13,9 +13,19 @@ header{
 
 .blue-bg{
       background-color: #1035f0;
-      color: #fff;
+      color: #ffffff;
 }
 .btn-bg{
     background-color: #045731;
   color: #fff;
+}
+
+
+.icons{
+    height: 32px;
+    width: 32px;
+    margin-bottom: 16px;
+    color: #1700c6;
+    background-color: #ffffff;
+    padding: 6px ;
 }
